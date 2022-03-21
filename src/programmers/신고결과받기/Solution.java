@@ -1,4 +1,4 @@
-package 신고결과받기;
+package programmers.신고결과받기;
 
 import java.util.*;
 import java.util.stream.Collectors;

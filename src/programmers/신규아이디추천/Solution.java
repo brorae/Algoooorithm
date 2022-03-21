@@ -1,4 +1,4 @@
-package 신규아이디추천;
+package programmers.신규아이디추천;
 
 class Solution {
     public String solution(String new_id) {

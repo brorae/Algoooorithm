@@ -1,4 +1,4 @@
-package 숫자문자열과영단어;
+package programmers.숫자문자열과영단어;
 
 class Solution {
     public int solution(String s) {
