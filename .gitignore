@@ -35,8 +35,6 @@ out/
 
 *.DS_Store
 
-/src/devmatching
-/src/kakao
 /src/kakaointern
 /src/sds
 /src/toss
