@@ -1,4 +1,4 @@
-package kakaotechintern2022.p3;
+package kakaotechintern.y2022.p3;
 
 class Solution {
 

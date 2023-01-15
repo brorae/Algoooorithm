@@ -1,4 +1,4 @@
-package kakaotechintern2022.p4;
+package kakaotechintern.y2022.p4;
 
 import java.util.Arrays;
 

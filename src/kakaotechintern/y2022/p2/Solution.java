@@ -1,4 +1,4 @@
-package kakaotechintern2022.p2;
+package kakaotechintern.y2022.p2;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package kakaotechintern2022.p1;
+package kakaotechintern.y2022.p1;
 
 import java.util.HashMap;
 import java.util.Map;
