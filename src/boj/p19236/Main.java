@@ -21,7 +21,7 @@ public class Main {
 	static int prevSharkX = -1, prevSharkY= -1;
 	
 	public static void main(String[] args) throws IOException {
-		System.setIn(new FileInputStream("src/boj/p19236/input.txt"));
+//		System.setIn(new FileInputStream("src/boj/p19236/input.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
